@@ -1,0 +1,7 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+sqlalchemy>=2.0.30
+cryptography>=42.0.8
+python-multipart>=0.0.9
+pydantic>=2.12.5
+aiofiles>=23.2.1
